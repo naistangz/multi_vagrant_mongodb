@@ -1,1 +1,1 @@
-{"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/starter_code","disabled":false,"__vagrantfile":true}}}
+{"virtualbox":{"/home/ubuntu/environment":{"guestpath":"/home/ubuntu/environment","hostpath":"C:/Users/mutil_vag_with_mongodb/environment/db","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/mutil_vag_with_mongodb","disabled":false,"__vagrantfile":true}}}
