@@ -29,4 +29,25 @@ Checking our env
 env
 ```
 
+## Making environment variables persistent
+```bash
+vi ~/.bashrc
+```
 
+Running `node app.js`
+```
+http://development.local:3000/posts
+```
+
+# Reverse Proxy 
+
+## What is a reverse proxy?
+- Reverse proxy protects web servers from attacks and can provide performance and reliability benefits. 
+- A reverse proxy is a server that sits in front of web servers and forwards client (e.g. web browser) requests to those web servers. 
+- Reverse proxies are typically implemented to help increase security, performance, and reliability. 
+
+## What's a proxy server?
+- A forward proxy, often called a proxy, proxy server, or web proxy, is a server that sits in front of a group of client machines. When those computers make requests to sites and services on the Internet, the proxy server intercepts those requests and then communicates with web servers on behalf of those clients (like a middleman).
+
+## Why use a forward proxy?
+- **To avoid state or institutional browsing restrictions** - Some governments, schools, and other organisations use firewalls to give their users access to a limited version of the Internet. 
