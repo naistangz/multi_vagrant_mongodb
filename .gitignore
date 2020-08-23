@@ -2,3 +2,4 @@
 venv
 vagrant-ssh
 .vagrant/
+.vagrant/machines/app/virtualbox/private_key
