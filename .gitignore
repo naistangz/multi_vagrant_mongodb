@@ -4,3 +4,5 @@ vagrant-ssh
 .vagrant/
 .vagrant/machines/app/virtualbox/private_key
 .vagrant/machines/db/virtualbox/private_key
+.vagrant/machines/app/virtualbox/private_key
+
